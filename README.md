@@ -35,6 +35,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Nurdhuha/Nurdhuha/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Nurdhuha/Nurdhuha/output/snake.svg?v=1" alt="Snake animation" />
 
 ###
