@@ -1,6 +1,6 @@
 # Hi there, I'm Nur Dhuha! 👋
 
-I'm a **Fullstack Developer** and **Tech Enthusiast** from Indonesia 🇮🇩. I have a strong passion for building systems integrated with **AI** and **Blockchain**, especially in the **Fintech** sector. Currently building solutions at **@hackbit_studio**.
+I'm a **Software Developer** and **Tech Enthusiast** from Indonesia 🇮🇩. I have a strong passion for building systems integrated with **AI** and **Blockchain**, especially in the **Fintech** sector. Currently building solutions at **@hackbit_studio**.
 
 ---
 
