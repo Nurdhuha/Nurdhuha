@@ -23,7 +23,10 @@ I'm a **Software Developer** and **Tech Enthusiast** from Indonesia 🇮🇩. I 
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nurdhuha&theme=dracula" alt="nurdhuha's streak" />
+  <a href="https://github.com/nurdhuha">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nurdhuha&show_icons=true&theme=dracula" alt="nurdhuha's GitHub stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurdhuha&layout=compact&theme=dracula" alt="Top Languages" />
+  </a>
 </div>
 
 <div align="center">
